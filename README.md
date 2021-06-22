@@ -1,9 +1,9 @@
 ### 👋, I am Mateusz Soltysik.
 
-##### Full Stack Software Engineering | Cloud Computing
+#### Full Stack Software Engineering | Cloud Computing
 
 - 👨‍💻 Currently working for [NordCloud](https://nordcloud.com/) (IBM).
-- 📖 Currently focusing on mastering golang & AWS.
+- 📖 Right now focusing on mastering golang & AWS.
 
 
 ### My GitHub Stats

@@ -7,4 +7,4 @@
 
 
 ### My GitHub Stats
-[![Mateusz Soltysik GitHub stats](https://github-readme-stats.vercel.app/api?username=msoltysik&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Mateusz Soltysik GitHub stats](https://github-readme-stats.vercel.app/api?username=msoltysik&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)

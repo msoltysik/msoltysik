@@ -2,7 +2,7 @@
 
 #### Full Stack Software Engineering | Cloud Computing
 
-- 👨‍💻 Currently working for [NordCloud](https://nordcloud.com/) (IBM).
+- 👨‍💻 Currently working for [Nordcloud](https://nordcloud.com/): an IBM Company.
 - 📖 Right now focusing on mastering golang & AWS.
 
 

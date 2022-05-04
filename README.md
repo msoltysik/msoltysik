@@ -6,4 +6,4 @@
 - 📖 Right now focusing on mastering golang & AWS.
 
 ### My GitHub Stats
-![Mateusz Soltysik GitHub stats](https://github-readme-stats.vercel.app/api?username=msoltysik&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
+![Mateusz Soltysik GitHub stats](https://github-readme-stats.vercel.app/api?username=msoltysik&count_private=true&show_icons=true&theme=github&hide_title=true)
